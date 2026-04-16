@@ -1,3 +1,3 @@
 const add = (a, b) => a + b;
 
-console.log(add(3, 3))
+console.log("Answer: ",add(3, 3))
